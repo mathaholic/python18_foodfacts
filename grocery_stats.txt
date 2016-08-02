@@ -14,3 +14,15 @@ https://www.creditdonkey.com/grocery-shopping-statistics.html
 
 From what food categories does an average purchaser shop from per week?
 
+
+How often does an average american eat out a week?
+6 times per week, or two whole day's worth of fodo a week.  Thus, we only need to account for 10,000 calories as opposed to 14,000
+s
+
+How much in weight does the average American eat per day?
+According to the USDA, about 4.5 pounds, or about 2,040 grams
+http://www.usda.gov/factbook/chapter2.pdf
+
+Our 20 items per week must cover:
+2040g *5 = 10200 grams per week
+or weigh at least 510 grams per item
