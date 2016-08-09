@@ -1,0 +1,29 @@
+Question one: Measure nutritionality of foods in the database against recommendations.
+
+1. Find a way to compare the list of nutrients for which IOM makes recommendations and the list available in our dataset.
+
+2. Create a dictionary that includes nutrients as keys and IOM RDAs as values, for our target individual.
+
+2. a) Are we going to use an adult male as our target individual?  Recs are available for different genders & age brackets.
+
+3. Create a function that totals the amount of nutrients from each item in our basket, then compares them to the RDA, returning whether nutritionally satisfactory or not.
+
+Question Two: Search product for hydrogenated oils and high fructose corn syrup.     
+
+1. Create a function that reads in ingredients from the database.  
+
+2. Check for integrity of the read-in data (alternate words for HFCS etc.)
+
+3. Create a function that reads item data and flags for keywords.
+
+4. Compute the frequency of keywords in the database.
+
+Question Three: Determine the frequency of nutrient dense foods in the dataset.
+
+1. We can use the UK's nutritionality rating here:
+
+ a) Find the frequency of occurrence of this field, determine if sufficient
+
+ b) If insufficient, find the metrics behind the number and supplement existing by constructing new field (similar to Energy approach)
+
+2. We can find our own means of determining nutrient density: define, apply, summarise.
